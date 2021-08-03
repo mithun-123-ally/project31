@@ -101,7 +101,7 @@ function draw() {
      }
    
    dist()
-  drawSprite();
+  drawSprites();
 }
 
 function handleButtonPressed(){
